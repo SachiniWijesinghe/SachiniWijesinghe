@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences ([CV link](https://drive.google.com/file/d/1_AHTeixFrffi1F1pIXB36fy8x5k78J3X/view?usp=share_link))
 
-<1--- ⚡ Fun fact **I think I am funny** -->
+<!--- ⚡ Fun fact **I think I am funny** -->
 
 <img align="right" alt="cording" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
@@ -81,8 +81,9 @@
 <br><hr><hr><br><br>
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachiniwijesinghe&show_icons=true&locale=en&layout=compact" alt="sachiniwijesinghe" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachiniwijesinghe&show_icons=true&locale=en&layout=compact" alt="sachiniwijesinghe" /></p>
 <br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachiniwijesinghe&show_icons=true&locale=en" alt="sachiniwijesinghe" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachiniwijesinghe&" alt="sachiniwijesinghe" /></p>
+ -->
